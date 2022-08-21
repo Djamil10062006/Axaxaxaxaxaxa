@@ -1,0 +1,97 @@
+head {
+    background-color: #f1f1f1;
+}
+.tipo {
+    color: black;
+    text-align: center;
+    font-size: 10px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.rabot {
+    width: 90px;
+    border-radius: 30px;
+}
+
+.zas {
+    text-align: center;
+    font-family: none;
+}
+
+.imgrab {
+    text-align: center;
+}
+
+.ox {
+    text-align: center;
+}
+
+.ox1 {
+    width: 90px;
+    border-radius: 30px;
+}
+
+.kros {
+    width: 90px;
+    border-radius: 30px;
+}
+
+.krosotka {
+    text-align: center;
+}
+
+body {
+    background: url(fon.jpg) /* no-repeat 30px 20px; */ /* Параметры фона */
+   }
+
+.napom {
+    font-size: 15px;
+    font-family: 'DynaPuff', cursive;
+}
+
+red1 {
+    color: red;
+}
+
+.moi {
+    text-align: center;
+}
+
+.moi1 {
+    width: 90px;
+    border-radius: 30px;
+}
+
+.moi2 {
+    font-size: 15px;
+}
+
+.vso {
+    text-align: center;
+}
+
+.mda {
+    font-size: 12px;
+}
+
+.cent {
+    text-align: center;
+}
+
+.ok1, .ok2 {
+    font-family: 'Rubik Iso', cursive;
+    font-size: 20px;
+}
+
+.obj {
+    font-family: 'Lobster', cursive;
+}
+
+.ohh1 {
+    font-family: none;
+}
+
+.kogo {
+    font-size: 23px;
+    font-family: none;
+}
